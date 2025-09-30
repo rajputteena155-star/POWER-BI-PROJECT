@@ -40,17 +40,10 @@
 * For citizens, it creates awareness about why costs rise and how to plan better.
 * In short, inflation analysis makes economics **practical, relatable, and action-driven**.
 
-## 🚀 Future Scope
-
-* Add **forecasting models (like ARIMA or ML tools)** to predict inflation.
-* Bring in **global datasets** for cross-country comparisons.
-* Connect to **real-time APIs** for live monthly updates.
-* Link inflation with **GDP, unemployment, and interest rates** for a fuller economic picture.
-
 ## 📂 Deliverables
 
 * Power BI dashboard with interactive visuals.
-* Cleaned dataset (Excel/CSV).
+* Cleaned dataset (Excel).
 * Documentation of all DAX formulas.
 * Summary report with key findings and policy takeaways.
 
