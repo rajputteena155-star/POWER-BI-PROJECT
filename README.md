@@ -4,10 +4,10 @@
 
 * This project is all about **understanding how inflation behaves in India**.
 * Using **Power BI**, I built an interactive dashboard that tracks **CPI (Consumer Price Index)** and **WPI (Wholesale Price Index)** trends from **2015 to 2025**.
-* The dashboard doesn’t just show numbers – it helps explain **why prices rise, which sectors drive inflation, and how different states are impacted differently**.
-* The broader aim: to show how **economics isn’t just theory**, but something that actively shapes policies, businesses, and even the food we buy every day.
+* The dashboard doesn’t just show numbers – it helps explain **How prices rose and how different states are impacted differently**.
+* The broader aim: to show how **This project shows how economics becomes practical when paired with technology, turning raw data into meaningful insights about inflation and its impact**
 
-## 🎯 Key Features
+## 🎯 Key Feature
 
 * **Trends that speak:** Year-on-year and month-on-month changes in CPI & WPI.
 * **Basket breakdown:** See which groups (food, fuel, housing, etc.) push inflation the most.
